@@ -1,4 +1,4 @@
-Moodle SysbindApi For Moodle
+SysbindApi For Moodle
 =============================
 
 Configuration
