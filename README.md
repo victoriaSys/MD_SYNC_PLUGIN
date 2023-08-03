@@ -3,7 +3,7 @@ SysbindApi For Moodle
 
 Configuration
 -------------
-1. This plugin requires `webservice_restful` notice: the version that was devloped by Frédéric Massart <fred@branchup.tech>.
+1. This plugin requires `webservice_restful` plugin. Notice: the version that was devloped by Frédéric Massart <fred@branchup.tech>.
 2. Checkout to MOODLE_401_SYSBIND branch
 3. Should be enabled:
    - `web services`
