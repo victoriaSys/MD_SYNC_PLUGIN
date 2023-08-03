@@ -16,11 +16,12 @@ On Administration > Local Plugins > Sysbind REST API Service > Mapping > Add a m
 1. Choose a service you want to map
 2. Choose a webservice username
 3. Define all the required fields with relevant names
-4. Select a keyfield (Username is recommended)
+4. Select a keyfield (Username is recommended for users service, Idnumber for the other services)
 5. Save changes - This will automatically create a token for this webservice username
    
 You should create all the services: users, courses, categories, groups and enrolls.
 Check the documentation of the possible requests for each service.
+
 
 Notice
 ------
