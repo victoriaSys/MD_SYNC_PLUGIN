@@ -1,7 +1,7 @@
 SysbindApi For Moodle
 =============================
 
-Configuration
+Requirements
 -------------
 1. This plugin requires `webservice_restful` plugin. 
 Notice: the version that was devloped by Frédéric Massart <fred@branchup.tech>.
